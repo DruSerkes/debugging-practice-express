@@ -34,5 +34,5 @@ app.use(function(err, req, res, next) {
 
 module.exports = app;
 
-// FIXED
+// BUG #1 FIXED
 // module.exports = app;
